@@ -1,2 +1,2 @@
-# goit-js-hw-05
-JavaScript practice #5
+# goit-js-hw-06
+JavaScript practice #6
